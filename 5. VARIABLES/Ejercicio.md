@@ -3,25 +3,25 @@
 ¿Qué tipo de dato debe tener una variable para representar la calificación promedio de un
 curso?
 
-      TU RESPUESTA AQUI
+  NÚMERICA
 
 ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
 hogar?
 
-      TU RESPUESTA AQUI
+ ALFANUMERICA
 
 ¿Qué tipo de dato debe tener una variable para contener el nombre de pila de una persona?
 
-      TU RESPUESTA AQUI
+   NÚMERICA
 
 ¿Qué tipo de dato debe tener una variable para registrar si está lloviendo o no?
 
-      TU RESPUESTA AQUI
+      BOLEANA
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
 
-      TU RESPUESTA AQUI
+      NÚMERICA
       
 ## EJERCICIO 2
 
@@ -34,7 +34,13 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
 
 Realiza un algoritmo para un programa que solicite al usuario su nombre y le salude usando ese nombre
 
-      TU ALGORITMO AQUI  
+     1 INICIO
+     2 DECLARAR "NOMBRE"
+     3 MOSTRAR
+     4 ASIGNAR
+     5 MOSTRAR
+     6 FIN
+       
 
 ## EJERCICIO 3
 
