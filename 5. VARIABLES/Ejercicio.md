@@ -40,7 +40,9 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
      4 ASIGNAR
      5 MOSTRAR
      6 FIN
-       
+       ![image](https://user-images.githubusercontent.com/113804692/192122665-2a17cdaf-f2f8-4f58-a345-450a94d24492.png)
+
+
 ![image](https://user-images.githubusercontent.com/113804692/192121730-6a9b6c14-1071-4f8c-97f9-dd55f1138864.png)
 
 
